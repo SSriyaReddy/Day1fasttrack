@@ -1,0 +1,13 @@
+package com.day1;
+
+public class program2 {
+	 public static void main(String[] args) {
+         int n= 51;
+   //checking whether the number is even or odd
+   if (n% 2 == 0)
+            System.out.println(n + " is Even");
+   else
+            System.out.println(n + " is odd");
+    }
+}
+
